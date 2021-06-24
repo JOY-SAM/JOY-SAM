@@ -1,5 +1,5 @@
 Java Swing Developer 👨🏼‍💻
-Hi I'm JOY , Flexible and quick in learning on any programming languages because I make projects based upon logic not the languages .
+Hi I'm JOY . I'm Flexible and quick in learning on any programming languages because I make projects based upon logic not the languages .
 Love Reverse Engineering.
 
 <!---
