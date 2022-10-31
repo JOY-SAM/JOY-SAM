@@ -3,7 +3,7 @@
 - 🌱 Flexible and willing to explore all technologies
 - 💖 Love to work in reverse Engineerning
 - 👯 I’m looking to collaborate on Interesting projects
-- 💬 Ask me about anything at [joysam1111@mail.com](https://mailto:joysam1111@mail.com/)
+- 💬 Ask me about anything at [joysam1111@mail.com](https://mailto:joysam1111@gmail.com/)
 - 📫 How to reach me: [www.joysam.me](https://www.joysam.me/)
 
 [![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white
