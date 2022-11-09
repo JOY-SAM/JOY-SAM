@@ -1,5 +1,5 @@
 - 🔭 I’m currently a Student professional
-- 🎯 Freelancer | Full stact developer | Desktop Applicaton Developer
+- 🎯 Freelancer | Full stack developer | Desktop Applicaton Developer
 - 🌱 Flexible and willing to explore all technologies
 - 💖 Love to work in reverse Engineerning
 - 👯 I’m looking to collaborate on Interesting projects
