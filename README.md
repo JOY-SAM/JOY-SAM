@@ -13,6 +13,9 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joy-sam-raj/)
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/JOY4NBA/)
 
+<img src="https://github.com/JOY-SAM/github-stats/blob/32127f2d04d871641a90f602f655cf20c5fad06b/generated/overview.svg">
+<img src="https://github.com/JOY-SAM/github-stats/blob/32127f2d04d871641a90f602f655cf20c5fad06b/generated/languages.svg">
+
 ## Programming Languages
 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
@@ -48,6 +51,8 @@
 ![Mac OS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white)
 ![Kali](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+
+
 
 
 
