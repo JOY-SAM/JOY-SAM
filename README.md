@@ -1,3 +1,4 @@
+ # Hi I'am Joy!
 - 🔭 I’m currently a Student professional
 - 🎯 Freelancer | Full stact developer | Desktop Applicaton Developer
 - 🌱 Flexible and willing to explore all technologies
@@ -13,8 +14,14 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joy-sam-raj/)
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/JOY4NBA/)
 
-<img src="https://github.com/JOY-SAM/github-stats/blob/32127f2d04d871641a90f602f655cf20c5fad06b/generated/overview.svg">
-<img src="https://github.com/JOY-SAM/github-stats/blob/32127f2d04d871641a90f602f655cf20c5fad06b/generated/languages.svg">
+<div class="flex">
+    <img src="https://github.com/JOY-SAM/github-stats/blob/32127f2d04d871641a90f602f655cf20c5fad06b/generated/overview.svg">
+    <img src="https://github.com/JOY-SAM/github-stats/blob/32127f2d04d871641a90f602f655cf20c5fad06b/generated/languages.svg">
+</div>
+
+## Check me on my Portfolio website for updated information
+[![Website](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://www.joysam.me)
+
 
 ## Programming Languages
 
